@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_auth0_scheme">app</string>
+    <string name="com_auth0_domain">TODO: Enter your tenant’s domain name here.</string>
+    <string name="com_auth0_client_id">TODO: Enter your app’s client ID here.</string>
+</resources>
